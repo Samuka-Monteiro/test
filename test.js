@@ -1,3 +1,3 @@
 export function helloWorld() {
-  return alert("Hello world");
+  return alert("Hello world from github");
 }
