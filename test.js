@@ -1,1 +1,3 @@
-alert("hello world")
+export function helloWorld() {
+  return alert("Hello world");
+}
